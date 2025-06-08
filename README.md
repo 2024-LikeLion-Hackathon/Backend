@@ -3,17 +3,19 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
    <td>
-      <img src="https://github.com/user-attachments/assets/4df2f399-5224-476b-a8e6-941e61033d87" alt="더함 로고" width="500"/>
+     <img width="300" alt="로고 1@2x" src="https://github.com/user-attachments/assets/0226f750-5fb4-4999-bd43-e6f968ba064c" />
    </td>
     <td>
       <h3>
-        “Modi가 당신의 이야기를 들어줄테니, 편안하게 자신의 감정을 돌이켜보고 오늘의 색을 만들어봐요”
+        “Modi가 당신의 이야기를 들어줄테니, </br><p></p>
+        편안하게 자신의 감정을 돌이켜보고 오늘의 색을 만들어봐요”
       </h3>
       <p>
        참여 인원 : 5명 / 
        개발 주기 : 1달 / 
        2024 멋쟁이사자처럼 중앙 해커톤 출품
       </p>
+      <p></p>
     </td>
   </tr>
 </table>
