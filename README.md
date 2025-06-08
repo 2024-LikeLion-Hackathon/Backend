@@ -41,7 +41,7 @@
 
 ### 일기 내용을 기반으로 공감하며 되물어주는 AI 봇 MoDi
 
-* ChatGPT API와 프롬프트를 통한 공감과 되묻는 질문에 최적화된 AI
+* ChatGPT API와 프롬프트 설정을 통해 공감과 되묻는 질문에 최적화된 AI
 
 <img src="https://github.com/user-attachments/assets/535ac89c-097f-4415-9466-59e0f895ecfd" alt="Modi" width="300"/>
 
