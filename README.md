@@ -39,6 +39,13 @@
 
 기존 감정 일기 서비스는 감정이 20개 내외로 한정되어 있는 것에 의아함을 느꼈고.. 선택지를 굉장히 폭넓히자는 의지로 최종 **600가지의 감정을 사용했다!**
 
+### 일기 내용을 기반으로 공감하며 되물어주는 AI 봇 MoDi
+
+* ChatGPT API와 프롬프트를 통한 공감과 되묻는 질문에 최적화된 AI
+
+<img src="https://github.com/user-attachments/assets/535ac89c-097f-4415-9466-59e0f895ecfd" alt="Modi" width="300"/>
+
+
 ### Emotion + Log = Emolog 🎨
 
 1. 오늘의 일기에 관하여 AI 친구 MoDi와 함께 대화를 나누며 자신의 감정에 솔직해지도록 도와주는 서비스
